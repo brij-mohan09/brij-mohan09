@@ -1,53 +1,80 @@
-<!-- ### Hi there 👋 -->
-![logo](https://media.licdn.com/dms/image/C4D12AQG_cpu2CqzCvg/article-cover_image-shrink_600_2000/0/1653150404368?e=2147483647&v=beta&t=1s_3JYAvqQNwvB0SWlgVhvgKwjM9FpG_b9bfT7dRZ04)
-<h1 align="center">Hi 👋, I'm Brij Mohan</h1>
-<h3 align="center">A passionate frontend web developer from India</h3>
+# Brij Mohan
 
-<img align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" alt="coding_image" width="400">
+Frontend Engineer — React.js | JavaScript | API Integration
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brij-mohan09&label=Profile%20views&color=0e75b6&style=flat" alt="brij-mohan09" /> </p>
+I build responsive web applications using modern React architecture, REST APIs, and scalable component systems.
+Focused on clean UI engineering, performance optimization, and maintainable frontend code.
 
-- 🌱 I’m currently practicing **frontend dev**
+📍 Bengaluru, India
+📧 [brijmohan9297@gmail.com](mailto:brijmohan9297@gmail.com)
 
-- 💬 Ask me about **html, css, js, react, redux, scss, tailwind css, git & github**
+Portfolio: https://brij-mohan-portfolio.vercel.app
+LinkedIn: https://linkedin.com/in/brij-mohan09
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/brij-mohan09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brij-mohan09" height="30" width="40" /></a>
-<a href="https://instagram.com/it09brij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it09brij" height="30" width="40" /></a>
-</p> -->
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <!-- <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  -->
-  <!-- <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  -->
-  <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-</p>
+## Tech Stack
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brij-mohan09&show_icons=true&locale=en&layout=compact" alt="brij-mohan09" /></p> -->
+Frontend
+React • JavaScript (ES6+) • HTML5 • CSS3 • Responsive UI
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brij-mohan09&show_icons=true&locale=en" alt="brij-mohan09" /></p> -->
+State Management
+Redux • Context API • React Hooks
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brij-mohan09&" alt="brij-mohan09" /></p>
+Backend / Programming
+Python • REST API Integration • JSON Processing
 
+Tools
+Git • GitHub • VS Code • NPM • Chrome DevTools
 
-<!--
-**brij-mohan09/Brij-Mohan09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### React Admin Dashboard
+
+Modern analytics dashboard with charts, reusable UI components, and API data integration.
+
+Tech Stack
+React • Chart.js • REST API • CSS
+
+Repository
+https://github.com/brij-mohan09/react-admin-dashboard
+
+---
+
+### React Task Manager (Full Stack)
+
+Task management application with CRUD operations and API integration.
+
+Tech Stack
+React • Context API • Python Flask • REST API
+
+Repository
+https://github.com/brij-mohan09/react-task-manager
+
+---
+
+### React Weather Dashboard
+
+Real-time weather dashboard using public APIs and dynamic UI updates.
+
+Tech Stack
+React • JavaScript • Weather API
+
+Repository
+https://github.com/brij-mohan09/react-weather-dashboard
+
+---
+
+## GitHub Activity
+
+Consistently building React applications and experimenting with frontend architecture and API integrations.
+
+---
+
+## Currently Learning
+
+Advanced React patterns
+Frontend performance optimization
+Full-stack integration with Python APIs
